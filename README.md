@@ -15,7 +15,7 @@ A Windows app to display payment information on the form
 The goal of this project is to show my portifolio to the world.
 
 ## Screenshots
-![Payment](./Payment.png)
+![Payment](./payment.png)
 
 ## Technologies
 * Visual Studio
